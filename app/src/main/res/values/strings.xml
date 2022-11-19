@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ADDITION CALCULATOR</string>
+    <string name="txt_instruction">Input three numbers to calculate its sum.</string>
+    <string name="txt_number1">Enter a number (1)</string>
+    <string name="txt_number2">Enter a number (2)</string>
+    <string name="txt_number3">Enter a number (3)</string>
+    <string name="txt_compute">Compute</string>
+    <string name="txt_compute_result">Showing its Sum</string>
+    <string name="txt_close">Close</string>
+    <string name="txt_demo">This project is for demonstration use.</string>
+</resources>
